@@ -1,0 +1,5 @@
+Why responsive images?
+  Images consume lots of bandwith (> 60% of all bandwith online consumed by images), important to consider for mobile users. 
+  Same image doesn't work equally well on highDPI computer monitor as on mobile screen. 
+  Good developer thinks responsively, doesn't port. 
+  
