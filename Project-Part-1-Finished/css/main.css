@@ -1,0 +1,16 @@
+body {
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+article {
+	width: 50em;
+}
+
+h1 {
+
+}
+
+img {
+	max-width: 100%;
+}
